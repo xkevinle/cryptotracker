@@ -60,7 +60,7 @@ root.title("GDAX Exchange Prices")
 root.minsize(width=300, height=300)
 root.maxsize(width=400, height=350)
 getprices()
-#updateprice()
+updateprice()
 
 button = tk.Button(root, text="Manually refresh", command=buttonrefresh)
 button.pack()
