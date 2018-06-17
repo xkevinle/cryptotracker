@@ -1,3 +1,3 @@
 # cryptotracker
 
-Simple code to grab crypto buy data from Coinbase using their api.
+Code to grab crypto bid data from GDAX using their api.
